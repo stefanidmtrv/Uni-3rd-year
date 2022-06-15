@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question2\main.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\CS\year3\CS313_High_integrity_systems\1909435\question2\main.gpr</vfs_project>
+      <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question2\division.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\CS\year3\CS313_High_integrity_systems\1909435\question2\main.gpr</vfs_project>
+      <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question2\division.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
