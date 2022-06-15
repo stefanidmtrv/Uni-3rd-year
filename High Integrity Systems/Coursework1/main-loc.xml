@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\main.gpr</vfs_project>
+      <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\main.gpr</vfs_project>
+      <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\decrement.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 76" line=" 19" >
+      <vfs_project>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\main.gpr</vfs_project>
+      <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\decrement.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\main.gpr</vfs_project>
+      <vfs_file>D:\CS\year3\CS313_High_integrity_systems\1909435\question1\decrement.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
